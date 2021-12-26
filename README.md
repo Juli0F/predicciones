@@ -1,2 +1,2 @@
 # predicciones
-practicando regresion lineal con pandas, numpy y python
+practicando predicciones con modelos de regresion lineal con pandas, numpy y python
